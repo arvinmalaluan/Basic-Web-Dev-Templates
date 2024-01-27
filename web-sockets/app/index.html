@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <link rel="stylesheet" href="index.css" />
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.4/socket.io.min.js"
+      integrity="sha512-skuhu6jj+sQnhLq1Txsack8VfnIrX8wL+MTFilYlFFT/NuLJm7eya7zOROs39Jy5cjASMEWqxLzijRVmKhsqWQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <form id="form-for-username">
+      <input type="text" id="sender" placeholder="Please input your username" />
+      <button>Send</button>
+    </form>
+
+    <form id="form-for-message" class="hide">
+      <input
+        type="text"
+        id="message-value"
+        placeholder="Type your message here"
+      />
+      <button>Send</button>
+    </form>
+
+    <ul></ul>
+  </body>
+</html>
