@@ -7,4 +7,4 @@ Welcome to the Basic Web Dev Templates repository, your one-stop destination for
 
 | Title        | Description                        |
 | ------------ | ---------------------------------- |
-| <b>Working Websockets Template</b> | <b>Overview:</b> This is used for creating a full-duplex communication, commonly used in real-time applications.<br /><b>Scenario used:</b> Chat application<br /><b>Link to template:</b> link<br /> |
+| <b>Working Websockets Template</b> | <b>Overview:</b> This is used for creating a full-duplex communication, commonly used in real-time applications.<br /><b>Scenario used:</b> Chat application<br /><b>Link to template:</b> [link](https://github.com/arvinmalaluan/Basic-Web-Dev-Templates/tree/main/web-sockets)https://github.com/arvinmalaluan/Basic-Web-Dev-Templates/tree/main/web-sockets<br /> |
